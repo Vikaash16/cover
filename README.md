@@ -145,7 +145,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![OUTPUT](./Book Cover.PNG)
+![OUTPUT](./Book cover.PNG)
 
 
 ## HTML VALIDATOR:
